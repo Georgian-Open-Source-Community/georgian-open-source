@@ -9,19 +9,19 @@ Georgian Open-source Community-სთვის განკუთვნილი
 
 
 ### Back-end
-[X] გავაკეთოთ nodejs setup
+- [X] გავაკეთოთ nodejs setup
 
-[X] დავაინსტალოთ საჭიღო package-ები
+- [X] დავაინსტალოთ საჭიღო package-ები
 
-[X] მოვიფიქროთ database სქემა (MongoDB)
+- [X] მოვიფიქროთ database სქემა (MongoDB)
 
-[X] გავაკეთოთ api
+- [X] გავაკეთოთ api
 
 ### Front-end
-[X] გავაკეთოთ vue setup (vue-cli)
+- [X] გავაკეთოთ vue setup (vue-cli)
 
-[] გავაკეთოთ მთავარი გვერდი (route)
+- [] გავაკეთოთ მთავარი გვერდი (route)
 
-[] მარტივი TOP Developer list
+- [] მარტივი TOP Developer list
 
-[] Job-ების ლისტი
+- [] Job-ების ლისტი
